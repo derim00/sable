@@ -10,7 +10,7 @@
 # Games: put .nwa files in the games/ folder of your private copy, they are
 # pre-linked for slot B and shipped with both installers.
 #
-# Actions tab -> "Build SABLE" -> Run workflow. About 15 minutes, then
+# Actions tab -> "Build SABLE" -> Run workflow. About 30 minutes (one firmware per model), then
 # download SABLE-Mac or SABLE-Windows at the bottom of the run's
 # page.
 name: Build SABLE
